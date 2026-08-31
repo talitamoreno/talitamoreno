@@ -15,30 +15,14 @@
   <p align="center">Olá! Seja muito bem-vindo(a) ao meu perfil.</p>
 
   <p align="left">
-    Me chamo <b>Talita Moreno</b> e sou <b>Analista de Data Insights & IA</b> em formação, unindo uma sólida visão de negócios à paixão pela tecnologia. Atuo como uma <b>facilitadora</b> entre o desenvolvimento técnico e áreas estratégicas de alto impacto, como <b>Growth, Marketing, Crédito e Operações</b>.
+Me chamo <b>Talita Moreno</b> e sou uma <b>Analista de Data Insights & IA</b> em formação, unindo uma sólida visão de negócios ao rigor técnico da análise de dados. Atuo como uma facilitadora entre o desenvolvimento técnico e áreas estratégicas de alto impacto, como <b>Growth, Marketing, Crédito e Operações</b>, ajudando a substituir o achismo organizacional por evidências íntegras.
   </p>
 
   <p align="left">
-    🎯 <b>Meu foco:</b> Aplicar a análise de dados para automatizar processos, eliminar tarefas manuais e apoiar a tomada de decisões corporativas com embasamento técnico e inteligência preditiva.
-  </p>
+    <b>Como eu trabalho:</b> Utilizo rituais de Human-in-the-loop (supervisão humana ativa) para garantir que a Inteligência Artificial atue como um copiloto confiável e auditável na tomada de decisões estratégicas.
 
   <p align="left">
-    🛠️ <b>Minha Stack & Tecnologias de Estudo Ativo:</b><br>
-    • <b>Data Insights & IA:</b> Python (Pandas, NumPy) e SQL (Extração, manipulação e consultas otimizadas).<br>
-    • <b>Business Intelligence (BI):</b> Criação de dashboards dinâmicos para visualização de métricas financeiras e operacionais.<br>
-    • <b>Automação & Web:</b> JavaScript (Manipulação do DOM) e persistência de dados local (LocalStorage).
-  </p>
-
-  <p align="left">
-    💼 <b>Áreas de Aplicação Estratégica:</b><br>
-    • Inteligência Operacional e Mitigação de Falhas.<br>
-    • Modelos de Decisão Racional.<br>
-    • Métricas de Crescimento (Growth).<br>
-    • Otimização de Processos (Cycle Time / ROI).
-  </p>
-
-  <p align="left">
-    Acredito que a tecnologia e a IA só geram valor quando alinhadas a uma boa estratégia de negócios. Se você busca uma profissional focada em transformar dados em eficiência, vamos nos conectar!
+    Acredito que a tecnologia e a IA só geram valor quando alinhadas a uma boa estratégia de negócios e a um propósito de impacto real. Se você busca uma profissional que une eficiência operacional e responsabilidade social, vamos nos conectar!
   </p>
 
   <details align="center">  
@@ -69,12 +53,35 @@
 
 ---
 
-### 📌 Projetos em Destaque
+## 🛠️ Tecnologias e Ferramentas
 
-* ⚖️ **[Matriz de Decisão Racional](https://talitamoreno.github.io/portal-eficiencia-operacional/)**: Desenvolvi uma aplicação para eliminar o viés subjetivo em escolhas complexas, utilizando lógica matemática para fundamentar o escalonamento de prioridades e crises.
-* ⏱️ **[Calculadora de Eficiência (ROI & Cycle Time)](https://talitamoreno.github.io/portal-eficiencia-operacional/)**: Criei uma ferramenta para mapeamento de processos que identifica gargalos operacionais e quantifica o retorno real de melhorias implementadas.
-* 📈 **[Dashboards de Suporte à Decisão](https://talitamoreno.github.io/sistema-contas-pagar/)**: Construção de sistemas web (ERP) com visualização analítica de KPIs em tempo real, integrando JavaScript e manipulação de dados para transparência financeira.
+- **Linguagens & Dados:** SQL (consultas otimizadas e manipulação de grandes volumes de dados) · Python (Pandas, NumPy)
+- **Business Intelligence:** Power BI
+- **IA & Governança:** IA Explicável (XAI), Engenharia de Prompt, Orquestração de Agentes de IA
+- **Desenvolvimento Web:** HTML5, CSS3 (Tailwind), JavaScript (ES6+), LocalStorage/JSON
 
+---
+
+## 📚 Glossário Rápido
+
+- **IA Explicável (XAI):** técnicas que mostram, de forma compreensível, por que um modelo tomou determinada decisão.
+- **Human-in-the-loop (HITL):** modelo onde a IA processa dados, mas a decisão final e a auditoria dependem de validação humana.
+- **IA Agêntica:** sistema autônomo que recebe instrução, planeja execução e realiza tarefa.
+
+---
+
+## 📂 Projetos em Destaque
+Aplicações e pipelines que automatizam análises, eliminam vieses e transformam dados em decisões estratégicas.
+
+### ⚖️ Projeto Kraira IA – Auditoria de Equidade em Recrutamento
+Plataforma que calcula Disparate Impact (DI) e gera recomendações para reduzir vieses de gênero.
+🔗 [Repositório](https://github.com/talitamoreno/kraira-ia-auditoria-etica)
+
+### 📊 Módulo ERP Financeiro
+Sistemas web (ERP) com KPIs em tempo real e integração de dados para transparência financeira. 🔗 [Acessar projeto](https://talitamoreno.github.io/sistema-contas-pagar/)
+
+### 🔧 Otimizador de Processos – Tríade de Eficiência Operacional
+Portal web com três módulos: Matriz de Decisão (priorização racional), Análise de Eficiência (identificação de gargalos) e Gestão de Ativos (simulação de ERP).  🔗 [Acessar portal](https://talitamoreno.github.io/portal-eficiencia-operacional/)
 <br>
 
 ---
@@ -95,6 +102,14 @@
 </div>
 
 ---
+
+## 🌱 Em constante evolução
+
+Atualmente aprofundando estudos em **auditoria algorítmica, fairness e IA responsável**, com foco em aplicações de impacto social.
+
+---
+
+**Obrigada pela visita!** Vamos construir tecnologia mais justa e eficiente. 💡
 
 <div align="center">
 
